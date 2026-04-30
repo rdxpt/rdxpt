@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shivam+%F0%9F%91%8B;Data+Science+%26+ML+Engineer;Full-Stack+%26+Backend+Dev;Building+things+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shivam+%F0%9F%91%8B;Data+Science+%26+ML+Engineer;Backend+Dev;Building+things+that+matter.)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:shivam21506@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rdxpt&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&base=500"/>
+  <img src="https://komarev.com/ghpvc/?username=rdxpt&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&base=542"/>
 </p>
 
 </div>
@@ -34,11 +34,11 @@ I'm a CS undergrad obsessed with **AI systems that work in the real world** — 
 
 | Project | Stack | Highlight |
 |--------|-------|-----------|
-| [**Aero-Health**](https://github.com) — Jet Engine RUL Prediction | `Python` `TensorFlow` `LSTM` `FastAPI` `AWS` | RMSE < 15 cycles on NASA CMAPSS; real-time 21-sensor telemetry pipeline |
-| [**Aviator-X**](https://github.com) — Pilot Fatigue Detection | `Python` `TensorFlow` `Keras` `OpenCV` | 70% accuracy on FER-2013, beats human baseline; edge-deployable CNN |
-| [**Neuroved**](https://github.com) — Medical AI Platform | `Spring Boot` `Next.js` `MongoDB` `Docker` | 🥇 HackData 2025 Winner · sub-100ms API latency, fault-tolerant microservices |
-| [**Silicon-Quest**](https://github.com) — Cloud Game Backend | `Next.js` `Cloudflare R2` `Firebase` | Zero-egress-fee 3D asset delivery + serverless anti-cheat layer |
-| [**Multi-Modal RAG Pipeline**](https://github.com) | `LangChain` `Gemini` `Ollama` `ChromaDB` | Built @ Indian Law Institute · 50% reduction in manual query resolution |
+| [**Aero-Health**](https://github.com/Aero-Health) — Jet Engine RUL Prediction | `Python` `TensorFlow` `LSTM` `FastAPI` `AWS` | RMSE < 15 cycles on NASA CMAPSS; real-time 21-sensor telemetry pipeline |
+| [**Aviator-X**](https://github.com/Facial-emotion-recognition-model) — Pilot Fatigue Detection | `Python` `TensorFlow` `Keras` `OpenCV` | 70% accuracy on FER-2013, beats human baseline; edge-deployable CNN |
+| [**Neuroved**](https://github.com/neuroveda) — Medical AI Platform | `Spring Boot` `Next.js` `MongoDB` `Docker` | 🥇 HackData 2025 Winner · sub-100ms API latency, fault-tolerant microservices |
+| [**Silicon-Quest**](https://github.com/siliconquest) — Cloud Game Backend | `Next.js` `Cloudflare R2` `Firebase` | Zero-egress-fee 3D asset delivery + serverless anti-cheat layer |
+| [**Multi-Modal RAG Pipeline**](**private**) | `LangChain` `Gemini` `Ollama` `ChromaDB` | Built @ Indian Law Institute · 50% reduction in manual query resolution |
 
 ---
 
