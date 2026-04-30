@@ -7,7 +7,7 @@
   <a href="mailto:shivam21506@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shivam21506&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=rdxpt&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&base=500"/>
 </p>
 
 </div>
@@ -94,12 +94,12 @@ I'm a CS undergrad obsessed with **AI systems that work in the real world** — 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam21506&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam21506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rdxpt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxpt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam21506&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdxpt&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
