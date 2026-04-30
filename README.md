@@ -94,7 +94,7 @@ I'm a CS undergrad obsessed with **AI systems that work in the real world** — 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdxpt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=rdxpt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github](https://streak-stats.demolab.com/?user=rdxpt&theme=tokyonight&hide_border=true)" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxpt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
 
