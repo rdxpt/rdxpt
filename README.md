@@ -34,10 +34,10 @@ I'm a CS undergrad obsessed with **AI systems that work in the real world** — 
 
 | Project | Stack | Highlight |
 |--------|-------|-----------|
-| [**Aero-Health**](https://github.com/Aero-Health) — Jet Engine RUL Prediction | `Python` `TensorFlow` `LSTM` `FastAPI` `AWS` | RMSE < 15 cycles on NASA CMAPSS; real-time 21-sensor telemetry pipeline |
-| [**Aviator-X**](https://github.com/Facial-emotion-recognition-model) — Pilot Fatigue Detection | `Python` `TensorFlow` `Keras` `OpenCV` | 70% accuracy on FER-2013, beats human baseline; edge-deployable CNN |
-| [**Neuroved**](https://github.com/neuroveda) — Medical AI Platform | `Spring Boot` `Next.js` `MongoDB` `Docker` | 🥇 HackData 2025 Winner · sub-100ms API latency, fault-tolerant microservices |
-| [**Silicon-Quest**](https://github.com/siliconquest) — Cloud Game Backend | `Next.js` `Cloudflare R2` `Firebase` | Zero-egress-fee 3D asset delivery + serverless anti-cheat layer |
+| [**Aero-Health**](https://github.com/rdxpt/Aero-Health) — Jet Engine RUL Prediction | `Python` `TensorFlow` `LSTM` `FastAPI` `AWS` | RMSE < 15 cycles on NASA CMAPSS; real-time 21-sensor telemetry pipeline |
+| [**Aviator-X**](https://github.com/rdxpt/Facial-emotion-recognition-model) — Pilot Fatigue Detection | `Python` `TensorFlow` `Keras` `OpenCV` | 70% accuracy on FER-2013, beats human baseline; edge-deployable CNN |
+| [**Neuroved**](https://github.com/rdxpt/neuroveda) — Medical AI Platform | `Spring Boot` `Next.js` `MongoDB` `Docker` | 🥇 HackData 2025 Winner · sub-100ms API latency, fault-tolerant microservices |
+| [**Silicon-Quest**](https://github.com/rxpt/siliconquest) — Cloud Game Backend | `Next.js` `Cloudflare R2` `Firebase` | Zero-egress-fee 3D asset delivery + serverless anti-cheat layer |
 | [**Multi-Modal RAG Pipeline**](**private**) | `LangChain` `Gemini` `Ollama` `ChromaDB` | Built @ Indian Law Institute · 50% reduction in manual query resolution |
 
 ---
